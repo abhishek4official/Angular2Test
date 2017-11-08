@@ -1,0 +1,7 @@
+ng g component Components/User // Create new Cpmponent
+ng generate module Module/Singlton // creates Modules
+ng generate interface Models/TestModel // creates Interfaces(Models)
+
+ng serve --open //start NG app
+
+@Injectable() //for Singlton
